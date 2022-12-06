@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs/Snake
+/Snake/x64/Debug/_IsIncrementalBuild
+*.recipe
+/Snake/x64/Debug/Snake.tlog/CL.read.1.tlog
+/Snake/x64/Debug/Snake.tlog/CL.command.1.tlog
